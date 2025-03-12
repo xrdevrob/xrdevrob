@@ -8,4 +8,4 @@ I'm a highly motivated individual with a passion for XR and the goal to create u
 - 🎬 Working on an immersive entertainment concept called [XR Pro Player](https://www.xrproplayer.com/)
 - 👥 Designing a community-driven place where spatial applications live and XR developers connect and share their work (TBA)
 
-📫 Find all my work on [Bento](https://bento.me/blackwhale). Let's connect on [LinkedIn](https://www.linkedin.com/in/robertocoviello/) or [X](https://x.com/xrdevrob)
+📫 Find all my work on [Bento](https://bento.me/xrdevrob). Let's connect on [LinkedIn](https://www.linkedin.com/in/robertocoviello/) or [X](https://x.com/xrdevrob)
